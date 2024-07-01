@@ -11,3 +11,15 @@ All videos have resolutions of 1920×1080 pixels, and are provided in raw mpeg4 
 ### Download dataset
 [Shakiness-QuAD](https://data.mendeley.com/datasets/zndt65jb5s/1)
 
+
+## Citation
+
+If you find this dataset useful for your research, please cite:
+```
+@....{....,
+title = {ASSESSING VIDEO SHAKINESS: A NOVEL DATA AND PROTOCOLS FRAMEWORK},
+author = {Borhen-eddine Dakkar, Azeddine Beghdadi, Stefania Colonnese, Naveed Iqbal, Azzedine Zerguine},
+booktitle={...},
+year = {2024},
+}
+```
