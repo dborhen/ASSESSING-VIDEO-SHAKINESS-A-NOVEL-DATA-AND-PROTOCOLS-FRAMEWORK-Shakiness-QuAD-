@@ -7,3 +7,7 @@ This is a repository for the  Shakiness-QuAD dataset proposed in the paper ["ASS
 The Shakiness-QuAD Dataset includes 30 shaky videos covering relevant categories such as climbing, driving, large parallax, rotation, running, and walking, with different scenes and levels of shakiness.
 All videos have resolutions of 1920×1080 pixels, and are provided in raw mpeg4 format. The frame rates of the 30 videos range from 29.93 to 30 frames per second, and all of the videos are of 7 seconds duration. 
 
+
+### Download dataset
+[Shakiness-QuAD](https://data.mendeley.com/datasets/zndt65jb5s/1)
+
