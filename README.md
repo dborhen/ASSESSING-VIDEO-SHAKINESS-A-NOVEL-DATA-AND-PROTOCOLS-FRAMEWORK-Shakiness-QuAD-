@@ -18,10 +18,15 @@ scaling method.
 
 If you find this dataset useful for your research, please cite:
 ```
-@....{....,
-title = {ASSESSING VIDEO SHAKINESS: A NOVEL DATA AND PROTOCOLS FRAMEWORK},
-author = {Borhen-eddine Dakkar, Azeddine Beghdadi, Stefania Colonnese, Naveed Iqbal, Azzedine Zerguine},
-booktitle={...},
-year = {2024},
-}
+@INPROCEEDINGS{10647955,
+  author={Dakkar, Borhen-Eddine and Beghdadi, Azeddine and Colonnese, Stefania and Iqbal, Naveed and Zerguine, Azzedine},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Assessing Video Shakiness: A Novel Data And Protocols Framework}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1253-1259},
+  keywords={Measurement;Legged locomotion;Protocols;Correlation;Image processing;Observers;Benchmark testing;Video-stabilization;Quality assessment;pairwise comparison;Just-Objectionable-Differences;video shakiness},
+  doi={10.1109/ICIP51287.2024.10647955}}
+
 ```
